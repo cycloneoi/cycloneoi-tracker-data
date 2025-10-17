@@ -1,4 +1,14 @@
 {
-  "lastUpdate": "2025-01-01T00:00:00Z",
-  "storms": []
+  "lastUpdate": "2025-10-17T10:00:00Z",
+  "storms": [
+    {
+      "id": "SIO-TEST-01",
+      "name": "Invest 94S",
+      "status": "Invest",
+      "maxWind": 30,
+      "basin": "SIO_SW",
+      "updatedAt": "2025-10-17T09:50:00Z",
+      "geojsonUrl": "https://cdn.jsdelivr.net/gh/cycloneoi/cycloneoi-tracker-data@main/SIO-TEST-01.geojson"
+    }
+  ]
 }
