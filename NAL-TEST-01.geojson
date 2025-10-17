@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature","properties":{"role":"past"},
+      "geometry":{"type":"LineString","coordinates":[[-50,12],[-49,12.2],[-48,12.5],[-47,12.8]]}},
+    { "type":"Feature","properties":{"role":"current"},
+      "geometry":{"type":"Point","coordinates":[-46,13.0]}},
+    { "type":"Feature","properties":{"role":"forecast"},
+      "geometry":{"type":"LineString","coordinates":[[-46,13.0],[-45,13.3],[-44,13.7],[-43,14.0]]}},
+    { "type":"Feature","properties":{"role":"cone"},
+      "geometry":{"type":"Polygon","coordinates":[[[-47,12.5],[-44.5,12.5],[-42.8,14.2],[-45,14.5],[-47,12.5]]]}}
+  ]
+}
