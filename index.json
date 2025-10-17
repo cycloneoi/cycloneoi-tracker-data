@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-17T10:00:00Z",
+  "lastUpdate": "2025-10-17T13:00:00Z",
   "storms": [
     {
       "id": "SIO-TEST-01",
@@ -9,6 +9,15 @@
       "basin": "SIO_SW",
       "updatedAt": "2025-10-17T09:50:00Z",
       "geojsonUrl": "https://cdn.jsdelivr.net/gh/cycloneoi/cycloneoi-tracker-data@main/SIO-TEST-01.geojson"
+    },
+    {
+      "id": "NAL-TEST-01",
+      "name": "Invest AL90",
+      "status": "Disturbance",
+      "maxWind": 25,
+      "basin": "NAL",
+      "updatedAt": "2025-10-17T10:10:00Z",
+      "geojsonUrl": "https://cdn.jsdelivr.net/gh/cycloneoi/cycloneoi-tracker-data@main/NAL-TEST-01.geojson"
     }
   ]
 }
